@@ -1,0 +1,6 @@
+[package]
+name = "basic_unit_integration_test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
